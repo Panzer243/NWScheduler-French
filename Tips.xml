@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tip>
+    <ID>1</ID>
+    <Heading>Rapports d'activité de prédication</Heading>
+    <Text>Pour voir qui n'a pas encore soumis son rapport d'activité de prédication, consultez la vue Moi ou Congrégation &gt; Rapport de service de la congrégation &gt; Éditeurs</Text>
+    <URL>https://nwscheduler.com/how-to/jw-secretary/congregation-field-service-report/</URL>
+  </Tip>
+  <Tip>
+    <ID>2</ID>
+    <Heading>Discours publics</Heading>
+    <Text>Pour envoyer un e-mail de rappel, d'invitation ou de confirmation de discours publics, cliquez simplement sur Programmer &gt; Discours publics - Local &gt; sélectionnez la semaine et cliquez sur le bouton à côté du nom des orateurs.</Text>
+    <URL>https://nwscheduler.com/how-to/schedule/schedule-public-talks-local/</URL>
+  </Tip>
+  <Tip>
+    <ID>3</ID>
+    <Heading>Discours publics</Heading>
+    <Text>Lors de la planification de discours publics, survolez le nom d'un orateur pour voir ses coordonnées</Text>
+    <URL>https://nwscheduler.com/how-to/schedule/schedule-public-talks-local/</URL>
+  </Tip>
+  <Tip>
+    <ID>4</ID>
+    <Heading>Discours publics</Heading>
+    <Text>Le programme Discours publics - Extérieur indique la date du week-end, pas la date de la réunion. Pour définir la date de réunion, voir Assemblée &gt; Assemblées voisines</Text>
+    <URL>https://nwscheduler.com/how-to/schedule/schedule-public-talks-away/</URL>
+  </Tip>
+  <Tip>
+    <ID>5</ID>
+    <Heading>Discours publics</Heading>
+    <Text>Le CCA ou le coordinateur des discours publics peut ajouter des notes privées lors de la planification des discours publics. Sélectionnez simplement la semaine et entrez des notes en haut</Text>
+    <URL>https://nwscheduler.com/how-to/schedule/schedule-public-talks-local/</URL>
+  </Tip>
+  <Tip>
+    <ID>6</ID>
+    <Heading>Discours publics</Heading>
+    <Text>La programmation des discours publics a une vue locale, une vue absente et une vue combinée</Text>
+    <URL>https://nwscheduler.com/how-to/schedule/schedule-public-talks-local/</URL>
+  </Tip>
+  <Tip>
+    <ID>7</ID>
+    <Heading>Partage de l'assemblée</Heading>
+    <Text>Si des données manquent, ne sont pas mises à jour ou ne sont pas synchronisées correctement, veuillez consulter Aide de Congregation Sharing &gt; Congregation Sharing Data or Syncing Problems, et suivez attentivement les instructions. Il n'est généralement pas nécessaire de nous contacter</Text>
+    <URL>https://nwscheduler.com/how-to/congregation-sharing/congregation-sharing-data-or-syncing-problems/</URL>
+  </Tip>
+  <Tip>
+    <ID>8</ID>
+    <Heading>Partage de l'assemblée</Heading>
+    <Text>Les journaux de partage de l'assemblée fournissent un journal complet de toutes les activités de partage au cours des 14 derniers jours, y compris quelles données ont été partagées, par qui et quand</Text>
+    <URL>https://nwscheduler.com/how-to/congregation-sharing/congregation-sharing-help/</URL>
+  </Tip>
+  <Tip>
+    <ID>9</ID>
+    <Heading>Partage de l'assemblée</Heading>
+    <Text>Si vous ne parvenez pas à vous connecter au Partage de l'assemblée, veuillez consulter Congregation Sharing Help &gt; Common Sharing Questions and Problems, et suivez attentivement les instructions. Il n'est généralement pas nécessaire de nous contacter</Text>
+    <URL>https://nwscheduler.com/how-to/congregation-sharing/common-congregation-sharing-questions-answers/</URL>
+  </Tip>
+  <Tip>
+    <ID>10</ID>
+    <Heading>Partage de l'assemblée</Heading>
+    <Text>Si un frère a des problèmes de partage ou ne voit pas toutes les données, les boutons Push et Pull peuvent résoudre le problème rapidement et facilement</Text>
+    <URL>https://nwscheduler.com/how-to/congregation-sharing/congregation-sharing-data-or-syncing-problems/</URL>
+  </Tip>
+  <Tip>
+    <ID>11</ID>
+    <Heading>Application NW Publisher</Heading>
+    <Text>Si des données sont manquantes ou différentes sur l'application NW Publisher par rapport à NW Scheduler, veuillez consulter Aide de l'application &gt; Questions et problèmes courants liés à l'application, et suivez attentivement les instructions. Il n'est généralement pas nécessaire de nous contacter</Text>
+    <URL>https://nwscheduler.com/how-to/jw-scheduler-app/solve-jw-scheduler-app-problems/</URL>
+  </Tip>
+  <Tip>
+    <ID>12</ID>
+    <Heading>Application NW Publisher</Heading>
+    <Text>Les données de l'application NW Publisher ne sont pas automatiquement importées dans NW Scheduler. Vous devez importer des données d'application</Text>
+    <URL>https://nwscheduler.com/how-to/jw-scheduler-app/app-members/</URL>
+  </Tip>
+  <Tip>
+    <ID>13</ID>
+    <Heading>Application NW Publisher</Heading>
+    <Text>La mise à jour automatique de l'application NW Publisher sur les appareils mobiles est gérée par le Device App Store (Apple, Google et Amazon), et non par NW Scheduler</Text>
+    <URL>https://nwscheduler.com/how-to/jw-scheduler-app/solve-jw-scheduler-app-problems/</URL>
+  </Tip>
+  <Tip>
+    <ID>14</ID>
+    <Heading>Application NW Publisher</Heading>
+    <Text>Si certaines notifications d'application ne sont pas envoyées ou reçues, veuillez consulter Aide de l'application &gt; Questions et problèmes courants liés à l'application et suivez attentivement les instructions. Il n'est généralement pas nécessaire de nous contacter</Text>
+    <URL>https://nwscheduler.com/how-to/jw-scheduler-app/solve-jw-scheduler-app-problems/</URL>
+  </Tip>
+  <Tip>
+    <ID>15</ID>
+    <Heading>Application NW Publisher</Heading>
+    <Text>Les données de NW Scheduler ne sont pas automatiquement envoyées à l'application NW Publisher. Vous devez envoyer des données d'application</Text>
+    <URL>https://nwscheduler.com/how-to/jw-scheduler-app/app-send-and-receive-data/</URL>
+  </Tip>
+  <Tip>
+    <ID>16</ID>
+    <Heading>Application NW Publisher</Heading>
+    <Text>Si les éditeurs utilisent NW Publisher sur plusieurs appareils, ils peuvent recevoir plusieurs rappels ou notifications (en particulier les rappels de rapport de service sur le terrain)</Text>
+    <URL>https://nwscheduler.com/how-to/jw-scheduler-app/solve-jw-scheduler-app-problems/</URL>
+  </Tip>
+  <Tip>
+    <ID>17</ID>
+    <Heading>Fonctionnalités</Heading>
+    <Text>Toutes les données de NW Scheduler ne sont pas accessibles via l'application NW Publisher, car cela impliquerait de stocker TOUTES les données de manière permanente sur des serveurs de stockage en ligne. L'application NW Publisher est conçue pour les éditeurs, pas pour les frères nommés</Text>
+    <URL>https://nwscheduler.com/frequently-asked-questions/</URL>
+  </Tip>
+  <Tip>
+    <ID>18</ID>
+    <Heading>Aide et soutien</Heading>
+    <Text>Vous pouvez rechercher nos pages d'aide et de support en utilisant la fonction de recherche : Barre de recherche avec icône de loupe (à côté du lien Tutoriels vidéo)</Text>
+    <URL>https://nwscheduler.com/support/</URL>
+  </Tip>
+  <Tip>
+    <ID>19</ID>
+    <Heading>Aide et soutien</Heading>
+    <Text>Vous pouvez visionner des didacticiels vidéo pour les fonctionnalités les plus courantes de NW Scheduler en visitant notre site Web.</Text>
+    <URL>https://nwscheduler.com/video-tutorials/</URL>
+  </Tip>
+  <Tip>
+    <ID>20</ID>
+    <Heading>Étapes rapides</Heading>
+    <Text>Les étapes rapides (qui se trouvent dans la vue Moi) vous permettent d'envoyer les e-mails les plus courants liés aux responsabilités de votre congrégation en un seul clic.</Text>
+    <URL>https://nwscheduler.com/video-tutorials/</URL>
+  </Tip>
+  <Tip>
+    <ID>21</ID>
+    <Heading>Missions et devoirs</Heading>
+    <Text>Lors de l'attribution d'exposés, d'affectations ou de tâches, un symbole d'avertissement s'affichera si une personne a déjà une affectation ou sera absente. Survolez l'icône d'avertissement pour voir des informations détaillées</Text>
+    <URL>https://nwscheduler.com/support/#schedule</URL>
+  </Tip>
+  <Tip>
+    <ID>22</ID>
+    <Heading>Fonctionnalités</Heading>
+    <Text>NW Scheduler n'est pas une application de messagerie. Veuillez utiliser un service de messagerie pour envoyer des messages, par exemple : SMS, WhatsApp, Signal, etc.</Text>
+    <URL>https://nwscheduler.com/how-to/congregation/congregation-information-board/</URL>
+  </Tip>
+  <Tip>
+    <ID>23</ID>
+    <Heading>Fonctionnalités</Heading>
+    <Text>Nous n'ajouterons pas de comptes de l'assemblée à NW Scheduler. De nombreuses assemblées disposent déjà de la fonctionnalité de comptabilité JW.org en ligne</Text>
+    <URL>https://nwscheduler.com/frequently-asked-questions/</URL>
+  </Tip>
+  <Tip>
+    <ID>24</ID>
+    <Heading>Fonctionnalités</Heading>
+    <Text>Lorsque vous demandez de nouvelles fonctionnalités ou faites des suggestions, veuillez être aussi précis que possible et inclure plusieurs captures d'écran</Text>
+    <URL>https://nwscheduler.com/support-contact-us/</URL>
+  </Tip>
+  <Tip>
+    <ID>25</ID>
+    <Heading>Impression</Heading>
+    <Text>Pour imprimer une liste de personnes en fonction de N'IMPORTE QUEL critère, sous Enregistrer et imprimer, sélectionnez Personnes &gt; Liste de personnes, puis définissez vos critères</Text>
+    <URL>https://nwscheduler.com/how-to/schedules-and-reports/members-reports/</URL>
+  </Tip>
+  <Tip>
+    <ID>26</ID>
+    <Heading>Visite du responsable de circonscription</Heading>
+    <Text>Pour préparer, enregistrer ou imprimer toutes les informations pour le responsable de circonscription, cliquez simplement sur Impression &gt; Enregistrer et imprimer &gt; Responsable de circonscription</Text>
+    <URL>https://nwscheduler.com/how-to/schedules-and-reports/circuit-overseer-schedules-and-reports/</URL>
+  </Tip>
+  <Tip>
+    <ID>27</ID>
+    <Heading>Visite du responsable de circonscription</Heading>
+    <Text>Pour préparer les enregistrements de proclamateurs pour le responsable de circonscription, cliquez simplement sur Impression &gt; Enregistrer et imprimer &gt; Responsable de circonscription &gt; S-21 pour le responsable de circonscription</Text>
+    <URL>https://nwscheduler.com/how-to/schedules-and-reports/circuit-overseer-schedules-and-reports/</URL>
+  </Tip>
+  <Tip>
+    <ID>28</ID>
+    <Heading>Sauvegardes</Heading>
+    <Text>NW Scheduler crée une sauvegarde automatique chaque fois que le programme est fermé. Ceux-ci peuvent être ouverts en cliquant sur Congrégation &gt; Restaurer les données. Cependant, vous devez toujours effectuer régulièrement une sauvegarde manuelle pour stocker hors site.</Text>
+    <URL>https://nwscheduler.com/how-to/getting-started/backup-and-restore-data</URL>
+  </Tip>
+  <Tip>
+    <ID>29</ID>
+    <Heading>Sauvegardes</Heading>
+    <Text>Lors de la restauration de données à partir d'une sauvegarde, vous pouvez sélectionner la sauvegarde à utiliser ET les données à restaurer. Les rapports de proclamateurs peuvent être restaurés par personne ou par mois</Text>
+    <URL>https://nwscheduler.com/how-to/getting-started/backup-and-restore-data</URL>
+  </Tip>
+  <Tip>
+    <ID>30</ID>
+    <Heading>Mise à jour</Heading>
+    <Text>NW Scheduler publie des mises à jour majeures tous les 2-3 mois. Des mises à jour de build sont publiées régulièrement pour corriger les bogues. Vous n'avez besoin d'installer une mise à jour de Build que si vous rencontrez un problème</Text>
+    <URL>https://nwscheduler.com/how-to/update-jw-scheduler/</URL>
+  </Tip>
+  <Tip>
+    <ID>31</ID>
+    <Heading>Mise à jour</Heading>
+    <Text>Les principales mises à jour de NW Scheduler sont d'abord publiées pour les tests bêta le 21, puis pour une publication générale vers le 26. Cela laisse le temps à chacun de télécharger la nouvelle version avant le début du nouveau mois</Text>
+    <URL>https://nwscheduler.com/how-to/update-jw-scheduler/</URL>
+  </Tip>
+</ArrayOfTip>
